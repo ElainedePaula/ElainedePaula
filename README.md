@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElainedePaula
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTLM, CSS and JAVASCRIPT
+- 🌱 I’m currently learning HTLM, CSS, JAVASCRIPT and PYTHON.
 - 💞️ I’m looking to collaborate on website
 - 📫 How to reach me correction and improvements to the codes I make
 
